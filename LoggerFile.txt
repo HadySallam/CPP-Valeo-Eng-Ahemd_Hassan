@@ -1,0 +1,5 @@
+| 13:42:23 |AppId1 | 1 | lWarn | hello From Text File 
+| 13:42:23 |AppId1 | 2 | lDebug | hello From new Log Level
+| 13:42:23 |AppId2 | 1 | lWarn | hello From Text File 
+| 13:42:23 |AppId2 | 2 | lError | hello From new Log Level
+
